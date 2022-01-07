@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
-#Keeping For Sake of Sanity See Description Below
+## Keeping For Sake of Sanity See Description Below
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -26,3 +26,15 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+___________________________
+
+A small practice website to hone the following skills.
+
+- Best practice in developing clear UI and intuitive application flow.
+
+- Loading data to a page using a RESTful API amd a Database (Most likly Google Docs.)
+
+- Popular Angular 11 practices and refining work flow.
+
+- Loading and working with Angular Bootstrap.
