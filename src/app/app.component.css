@@ -1,0 +1,12 @@
+p{
+    color: white;
+}
+
+#navBarBackground{
+    background: rgb(51,135,201);
+    background: linear-gradient(0deg, rgba(51,135,201,1) 0%, rgba(0,120,212,1) 47%);
+}
+
+.font50{
+    font-size: 50px;
+}
